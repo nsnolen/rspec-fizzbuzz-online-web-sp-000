@@ -4,6 +4,6 @@ def fizzbuzz(value)
   elsif value % 5 == 0
     "Buzz"
   else value % 3 == 0
-    
+    "Fizz"
   end
 end
